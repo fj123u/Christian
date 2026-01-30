@@ -1,0 +1,12 @@
+
+# Cache python
+Christian/__pycache__/
+
+# Old version
+Christian/old/
+
+# Fichier test
+Christian/test/
+
+# Fichier pour le .exe
+Christian/christian.exe
