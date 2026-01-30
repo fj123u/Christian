@@ -6,7 +6,10 @@ Christian/__pycache__/
 Christian/old/
 
 # Fichier test
-Christian/test/
+Christian/tests/
 
 # Fichier pour le .exe
 Christian/christian.exe
+
+# BDD
+Christian/Thumbs.db
